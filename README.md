@@ -16,15 +16,17 @@
 [Homework 09](https://github.com/fcss88/python/HW09)
 
 [Homework 10](https://github.com/fcss88/python/HW10)
-
 [Homework 11]()
 [Homework 12]()
+
 [Homework 13]()
 [Homework 14]()
 [Homework 15]()
+
 [Homework 16]()
 [Homework 17]()
 [Homework 18]()
+
 [Homework 19]()
 [Homework 20]()
 [Homework 21]()
