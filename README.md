@@ -5,7 +5,7 @@
 [Homework 01](https://github.com/fcss88/python/tree/main/HW01) |
 [Homework 02](https://github.com/fcss88/python/tree/main/HW02) |
 [Homework 03](https://github.com/fcss88/python/tree/main/HW03) |
-[Homework 04] (https://github.com/fcss88/python/tree/main/HW04)
+[Homework 04](https://github.com/fcss88/python/tree/main/HW04)
 
 
 ~~Homework 05~~ |
