@@ -8,7 +8,7 @@
 [Homework 04](https://github.com/fcss88/python/tree/main/HW04)
 
 
-~~Homework 05~~ |
+[Homework 05](https://github.com/fcss88/python/tree/main/HW05)|
 ~~Homework 06~~ |
 ~~Homework 07~~ |
 ~~Homework 08~~ 
