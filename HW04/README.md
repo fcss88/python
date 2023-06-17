@@ -7,3 +7,5 @@
 # screenshot task3 (salary)
 ![HW04_3 screen](https://github.com/fcss88/python/blob/main/HW04/screen03.png)
 
+# screenshot task3 FIXED (salary)
+![HW04_3 screen](https://github.com/fcss88/python/blob/main/HW04/screen04.png)
