@@ -12,3 +12,6 @@
 
 # screenshot task4 (manually entered argument)
 ![HW02_4 screen](https://github.com/fcss88/python/blob/main/HW02/screen05.png)
+
+# screenshot task4 edited
+![HW02_4 screen](https://github.com/fcss88/python/blob/main/HW02/screen06.png)
