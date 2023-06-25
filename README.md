@@ -11,7 +11,7 @@
 [Homework 05](https://github.com/fcss88/python/tree/main/HW05)|
 [Homework 06](https://github.com/fcss88/python/tree/main/HW06)|
 [Homework 07](https://github.com/fcss88/python/tree/main/HW07)|
-~~Homework 08~~ 
+[Homework 08](https://github.com/fcss88/python/tree/main/HW08)
 
 ~~Homework 09~~ |
 ~~Homework 10~~ |
